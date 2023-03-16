@@ -12,9 +12,6 @@
 ## CS
 
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
-
 - [A Senior Engineer's CheckList](https://littleblah.com/post/2019-09-01-senior-engineer-checklist/)
-
 - [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
-
 - [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
