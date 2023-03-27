@@ -8,6 +8,7 @@
 
 - [How To Be Successful](https://blog.samaltman.com/how-to-be-successful)
 - [How to Lose Time and Money](http://www.paulgraham.com/selfindulgence.html)
+- [Productivity](https://blog.samaltman.com/productivity)
 
 ## CS
 
